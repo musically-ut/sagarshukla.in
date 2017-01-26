@@ -1,0 +1,18 @@
+body {
+    background: #282537;
+    background-image: -webkit-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+    background-image: -moz-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+    background-image: -o-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+    background-image: radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
+}
+
+body {
+    color: #ddd;
+    margin-top: 3em;
+}
+img {
+    max-width: 100%;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
